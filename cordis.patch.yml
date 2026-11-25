@@ -1,0 +1,6 @@
+# paper-miner bundle: inserts the Host plugin row into the profile composition.
+# Config values can be overridden from the profile's cordis.patch.yml.
+- insert:
+    - id: paper-miner
+      name: '@local/dsh-paper-miner'
+      config: {}

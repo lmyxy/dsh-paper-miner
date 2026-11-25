@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Paper miner",
+    "description": "Read PDF papers for a fraction of their token cost, then mine them for extension ideas. The Host parses the PDF, segments sections, indexes sentences and mines uncovered angles locally; the model sees a 1.5–2.5k token brief instead of the full 5–30k token text, and can drill into single sections on demand.",
+    "detail": "docs/DETAIL.md"
+  }
+}

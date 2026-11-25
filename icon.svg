@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Paper miner">
+  <defs>
+    <linearGradient id="pm-page" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#E8EDF5"/>
+    </linearGradient>
+    <linearGradient id="pm-gem" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFD37A"/>
+      <stop offset="1" stop-color="#E8952A"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="60" height="60" rx="14" fill="#22304A"/>
+  <path d="M20 9h17l10 10v27a5 5 0 0 1-5 5H20a5 5 0 0 1-5-5V14a5 5 0 0 1 5-5z" fill="url(#pm-page)"/>
+  <path d="M37 9l10 10H39a2 2 0 0 1-2-2z" fill="#B9C6D8"/>
+  <g fill="#93A3B8">
+    <rect x="21" y="24" width="20" height="2.6" rx="1.3"/>
+    <rect x="21" y="30" width="16" height="2.6" rx="1.3"/>
+    <rect x="21" y="36" width="12" height="2.6" rx="1.3"/>
+  </g>
+  <path d="M44 34l6 3.4v7.4L44 48l-6-3.2v-7.4z" fill="url(#pm-gem)" stroke="#B96F14" stroke-width="1.1" stroke-linejoin="round"/>
+  <path d="M44 34l-2.6 3.6h5.2z" fill="#FFF0C9"/>
+  <path d="M50 40.6l-5.6 7.2-6.4-3.2" fill="none" stroke="#B96F14" stroke-width="1" stroke-linejoin="round" opacity=".55"/>
+</svg>

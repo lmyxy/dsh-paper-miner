@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "论文精读",
+    "description": "用极小 token 成本精读 PDF 论文，并从中挖掘可延伸的研究方向。宿主端完成 PDF 解析、章节切分、句子索引与「未覆盖角度」识别，模型只读取 1.5–2.5k token 摘要，而非原文 5–30k token，并可按需下钻单个章节。",
+    "detail": "docs/DETAIL.md"
+  }
+}
